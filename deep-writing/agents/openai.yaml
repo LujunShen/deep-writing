@@ -1,0 +1,4 @@
+interface:
+  display_name: "Deep Writing"
+  short_description: "Restructure academic drafts while preserving your voice"
+  default_prompt: "Use $deep-writing to restructure my review manuscript while preserving my academic writing style."
